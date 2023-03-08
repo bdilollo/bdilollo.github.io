@@ -3,6 +3,7 @@ import './nav.css';
 import {
   AiOutlineHome,
   AiOutlineUser,
+  AiOutlineFolder
 } from 'react-icons/ai';
 import {
   BiBook,
@@ -29,6 +30,11 @@ const [activeNav, setActiveNav] = useState('#');
         onClick={() => setActiveNav('#experience')}
         className={activeNav === '#experience' ? 'active' : ''}>
           <BiBook />
+      </a>
+      <a href='#portfolio'
+        onClick={() => setActiveNav('#portfolio')}
+        className={activeNav === '#portfolio' ? 'active' : ''}>
+          <AiOutlineFolder />
       </a>
       <a href='#contact'
         onClick={() => setActiveNav('#contact')}
