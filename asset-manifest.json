@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7eea087.css",
+    "main.js": "/static/js/main.5a1006a8.js",
+    "static/media/port1.png": "/static/media/port1.76800836e6d4adc6fb31.png",
+    "static/media/port3.png": "/static/media/port3.c8fbb22196ecfd578c63.png",
+    "static/media/about-me.jpg": "/static/media/about-me.bcaf7a51f6883779c0a5.jpg",
+    "static/media/me.png": "/static/media/me.cecb8e5e9de703338aed.png",
+    "static/media/Bradley-DiLollo-CV.pdf": "/static/media/Bradley-DiLollo-CV.ff28d528a5edaf12d2ae.pdf",
+    "static/media/port2.png": "/static/media/port2.3f585c3b395a80927cad.png",
+    "static/media/port4.png": "/static/media/port4.6b1c97f35f2c1cf96b75.png",
+    "static/media/example-portfolio-item.jpg": "/static/media/example-portfolio-item.29610c907ab8118eba26.jpg",
+    "static/media/port6.png": "/static/media/port6.fd8998ea9e236e28330d.png",
+    "index.html": "/index.html",
+    "main.a7eea087.css.map": "/static/css/main.a7eea087.css.map",
+    "main.5a1006a8.js.map": "/static/js/main.5a1006a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7eea087.css",
+    "static/js/main.5a1006a8.js"
+  ]
+}
