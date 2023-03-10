@@ -28,7 +28,7 @@ const About = () => {
             </article>
           </div>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Hi, my name is Bradley and I'm a full-stack web developer. I'm relatively new to software development, but I have a passion for learning and love pushing myself to discover and build things with new technologies. When I'm not in front of a computer, you can find me exploring the great outdoors or experimenting in the kitchen.
           </p>
           <a href='#contact' className='btn btn-primary'>Contact Me</a>
         </div>
